@@ -17,4 +17,4 @@ A small SDL based game engine with support for HTML5 deployments
 #### Building for Desktop Windows  
 ``mkdir build``  
 ``cd build``  
-``cmake -G "Visual Studio 17 2022" ..``
+``cmake -G "Ninja" ..``
